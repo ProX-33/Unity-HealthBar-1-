@@ -1,2 +1,2 @@
-# Unity-HealthBar-1-
+# UnityHealthBar-Simple
 FillAmount
